@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "file-saver": "^2.0.5",
+    "gojs": "^3.0.7",
+    "gojs-react": "^1.1.2",
+    "immer": "^10.1.1"
+  }
+}
